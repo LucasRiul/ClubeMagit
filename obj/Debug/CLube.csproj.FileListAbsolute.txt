@@ -1,0 +1,15 @@
+C:\Users\lucas.riul\source\repos\CLube\bin\Debug\CLube.exe.config
+C:\Users\lucas.riul\source\repos\CLube\bin\Debug\CLube.exe
+C:\Users\lucas.riul\source\repos\CLube\bin\Debug\CLube.pdb
+C:\Users\lucas.riul\source\repos\CLube\obj\Debug\CLube.csproj.AssemblyReference.cache
+C:\Users\lucas.riul\source\repos\CLube\obj\Debug\CLube.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas.riul\source\repos\CLube\obj\Debug\CLube.Form1.resources
+C:\Users\lucas.riul\source\repos\CLube\obj\Debug\CLube.Properties.Resources.resources
+C:\Users\lucas.riul\source\repos\CLube\obj\Debug\CLube.csproj.GenerateResource.cache
+C:\Users\lucas.riul\source\repos\CLube\obj\Debug\CLube.csproj.CoreCompileInputs.cache
+C:\Users\lucas.riul\source\repos\CLube\obj\Debug\CLube.exe
+C:\Users\lucas.riul\source\repos\CLube\obj\Debug\CLube.pdb
+C:\Users\lucas.riul\source\repos\CLube\obj\Debug\CLube.View.FormCategoria.resources
+C:\Users\lucas.riul\source\repos\CLube\obj\Debug\CLube.View.FormDependente.resources
+C:\Users\lucas.riul\source\repos\CLube\obj\Debug\CLube.View.FormMensalidade.resources
+C:\Users\lucas.riul\source\repos\CLube\obj\Debug\CLube.View.FormSocio.resources
