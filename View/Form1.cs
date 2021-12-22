@@ -11,6 +11,8 @@ using CLube.View;
 
 namespace CLube
 {
+    
+    
     public partial class Form1 : Form
     {
         public Form1()
@@ -46,6 +48,11 @@ namespace CLube
             FormMensalidade fmensalidade = new FormMensalidade();
 
             fmensalidade.Show();
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

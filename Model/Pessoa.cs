@@ -13,5 +13,11 @@ namespace CLube
 
         public string Nome { get => nome; set => nome = value; }        
         public string Email { get => email; set => email = value; }
+
+        //Exercício do commit
+        public void ExercicioCommit()
+        {
+            Console.WriteLine("Marcelim RJ");
+        }
     }
 }
